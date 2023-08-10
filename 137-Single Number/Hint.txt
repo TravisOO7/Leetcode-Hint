@@ -1,0 +1,13 @@
+1. Every integer is represented by 32 bits
+
+
+
+
+
+2. Storing bits of every input number
+
+
+
+
+
+3. Now when i count the bits later, the number which isn't present thrice will have bits which are not divisible by 3
